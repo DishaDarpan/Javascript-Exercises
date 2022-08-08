@@ -1,4 +1,7 @@
 function fizzBuzz() {
-    console.log("Hello!");
+    for (let i = 1; i<=100; i++){
+    console.log(i);
+
+}
 }
 fizzBuzz();
